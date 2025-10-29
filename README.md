@@ -1,2 +1,2 @@
-# python-project-for-crop-agriculture-
-This Python project creates a decision-support tool for farmers, designed to optimize crop selection and identify diseases, ultimately maximizing yield and sustainability.
+# A project on Crop Disease Detection Using Deep Learning Computer Vision.
+This projects uses Convolutional Neural Network to Identify different types of Diseases in plants using their image of leaves.
